@@ -1,4 +1,4 @@
-### Oi, eu sou a Thaina 👋
+### Olá, que bom ver você por aqui! Eu sou a Thaina 👋
 
 Desenvolvedora Back-end apaixonada por transformar processos manuais em sistemas. Curso Análise e Desenvolvimento de Sistemas e trabalho com automação, APIs REST e integração de sistemas em Python.
 
