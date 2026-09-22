@@ -17,8 +17,8 @@
 
 ### 📊 Atividade no GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thainaolivO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thainaoliv&theme=tokyonight&hide_border=true)
 
 ### 📫 Contato e Redes
 
