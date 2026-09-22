@@ -1,19 +1,24 @@
 # Olá, eu sou a Thaina! 👋
 
-**Desenvolvedora Back-end** | Foco em Automação e Python 🐍
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4F8EF7,100:6DD5FA&height=160&section=header&text=Thaina%20Oliveira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedora%20Back-end%20%7C%20Python%20%26%20Automação&descAlignY=58&descSize=18)
 
-Transformo processos manuais em sistemas. Curso Análise e Desenvolvimento de Sistemas e desenvolvo projetos com automação, APIs REST e integração de sistemas.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4F8EF7&center=true&vCenter=true&width=550&lines=Transformando+processos+manuais+em+sistemas;Automação+%7C+Python+%7C+APIs+REST;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ### 💡 Sobre mim
 
+- 🚀 Já automatizei processos manuais em ambiente corporativo com Python
 - 🌱 Atualmente estudando: **Cloud Computing (Azure)** e **arquitetura de APIs**
-- 🛠️ Trabalhando com: automação de processos e APIs em Python
-- 💬 Me pergunte sobre: Python, FastAPI e automação
-- 🎯 Meta 2026: construir 5 projetos completos para o portfólio e contribuir diariamente no GitHub
+- 🗄️ Interesse em back-end, integração de sistemas e banco de dados
+- 💬 Me pergunte sobre: Python e automação
 
 ### 🛠️ Tecnologias e Ferramentas
 
-[![Minhas Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,azure,git,github,powerbi)](https://skillicons.dev)
+[![Minhas Skills](https://skillicons.dev/icons?i=python,postgres,azure,git,github,powerbi)](https://skillicons.dev)
+
+### 📊 Atividade no GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true)
 
 ### 📫 Contato e Redes
 
