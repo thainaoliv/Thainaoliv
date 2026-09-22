@@ -1,116 +1,106 @@
-# 👩🏻‍💻 Thaina Curcino de Oliveira
+# 👋 Thaina Oliveira | Back-end Developer
 
-**`Estudante de Análise e Desenvolvimento de Sistemas | Tecnologia • Programação • Dados`**
+```
+    ┌─────────────────────────────────────────┐
+    │   Transformando Processos Manuais em    │
+    │        Sistemas Inteligentes            │
+    └─────────────────────────────────────────┘
+```
 
-Me chamo **Thaina Curcino de Oliveira** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas na UNINTER**.
+## Quem sou eu?
 
-Tenho interesse em **tecnologia, programação, automação de processos e análise de dados**, sempre buscando aprender novas ferramentas e desenvolver soluções que possam facilitar o trabalho e gerar valor através da tecnologia.
+Sou **Desenvolvedora Back-end** apaixonada por criar soluções que automatizam processos e eliminam tarefas repetitivas. Enquanto curso **Análise e Desenvolvimento de Sistemas**, construo projetos reais focados em **automação, APIs REST e integração de sistemas** com Python.
 
-Atualmente estou aprofundando meus estudos em:
-
-🐍 Python  
-🔧 Git e GitHub  
-🧠 Lógica de Programação  
-
-Também já desenvolvi projetos utilizando:
-
-📊 SQL  
-📈 Power BI  
-📊 Excel  
+Acredito que código bem escrito não é luxo, é eficiência. ⚡
 
 ---
 
-### 🌐 Portfólio
+## 🚀 O que eu faço
 
-Você pode visualizar alguns dos meus projetos aqui:
+```python
+def my_stack():
+    competencias = {
+        "Back-end": ["Python", "FastAPI", "APIs REST"],
+        "Dados": ["SQL", "Power BI", "Automação"],
+        "Cloud": ["Azure", "Git/GitHub"],
+        "Mindset": ["Problem-solving", "Aprendizado contínuo", "Inovação"]
+    }
+    return competencias
+```
 
-🔗 https://sites.google.com/view/portflio-thaina/in%C3%ADcio
-
----
-
-### 🤖 Tecnologias e Ferramentas
-
-<img 
-align="left" 
-alt="Python"
-title="Python" 
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-/>
-
-<img 
-align="left" 
-alt="SQL"
-title="SQL" 
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-/>
-
-<img 
-align="left" 
-alt="Power BI"
-title="Power BI" 
-width="30px" 
-style="padding-right: 10px;" 
-src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
-/>
-
-<img 
-align="left" 
-alt="Excel"
-title="Excel" 
-width="30px" 
-style="padding-right: 10px;" 
-src="https://img.icons8.com/color/48/microsoft-excel-2019.png" 
-/>
-
-<img 
-align="left" 
-alt="Git"
-title="Git" 
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-/>
-
-<img 
-align="left" 
-alt="HTML"
-title="HTML" 
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-/>
-
-<br/>
-<br/>
+| Categoria | Tecnologias |
+|-----------|-------------|
+| 🐍 **Back-end** | Python • FastAPI • SQLAlchemy |
+| 🗄️ **Banco de Dados** | PostgreSQL • SQL • Modelagem |
+| ☁️ **Cloud & DevOps** | Azure • Git • GitHub |
+| 📊 **Dados & Automação** | Power BI • Power Automate • Excel |
 
 ---
 
-### 📂 Projetos
+## 💡 Minha Abordagem
 
-📊 **Dashboard de Vendas**  
-Dashboard desenvolvido para análise de indicadores e desempenho de vendas.
-
-👥 **Dashboard de RH**  
-Projeto de análise e visualização de dados relacionados a recursos humanos.
-
-📈 **Análise dos 1000 vídeos mais populares do YouTube**  
-Exploração e análise de dados utilizando **SQL e Excel** para identificar padrões e tendências.
+```
+┌─────────────┐
+│  Entender   │ ──> Mapear o Processo
+│   o Problema│
+└─────────────┘
+      │
+      ▼
+┌──────────────┐
+│  Projetar    │ ──> Arquitetura Escalável
+│   Solução    │
+└──────────────┘
+      │
+      ▼
+┌─────────────┐
+│  Codificar   │ ──> Python & APIs
+│   com Qualid │
+└─────────────┘
+      │
+      ▼
+┌─────────────┐
+│   Iterar &   │ ──> Melhorar Sempre
+│   Melhorar   │
+└─────────────┘
+```
 
 ---
 
-### 📚 Atualmente estudando
+## 🎯 Meus Objetivos para 2026
 
-- Python  
-- Git e GitHub  
-- Lógica de programação  
-- Desenvolvimento de projetos e prática com dados
+- ✅ Construir **5 projetos completos** para portfólio
+- ✅ Aprimorar **arquitetura e design patterns** de APIs
+- ✅ Evoluir conhecimentos em **Azure** (cloud computing)
+- ✅ Fortalecer **fundamentos de banco de dados**
+- ✅ **Contribuir diariamente no GitHub** (consistência)
 
-### 📫 Contato
+---
 
-🔗 LinkedIn: www.linkedin.com/in/thaina-curcino-4716172a6
+## 🧠 O que estou aprendendo agora
 
-📧 Email: thainacurcino1@gamil.com
+- 📚 **Git & GitHub** — Do zero ao domínio (PowerShell + VS Code)
+- 🧪 **Pytest** — Testes automatizados com sintaxe elegante
+- ☁️ **Azure & Cloud Management** — Escalando com responsabilidade
+- 🔐 **Best Practices** — Clean code, segurança e performance
+
+---
+
+## 📫 Vamos Conectar!
+
+```
+💼 LinkedIn  → linkedin.com/in/thaina-curcino-4716172a6
+📧 Email     → thainacurcino1@gmail.com
+🐙 GitHub    → github.com/thaina-oliveira
+```
+
+---
+
+## 🎬 Resumo em Três Pontos
+
+1. **Soluciono Problemas** — Transformo demandas em código eficiente
+2. **Construo Produtos** — Do conceito à produção (back-end + dados)
+3. **Evoluo Constantemente** — Código que aprende, eu que cresço
+
+---
+
+### *"A melhor forma de prever o futuro é construi-lo com código." — 💻*
