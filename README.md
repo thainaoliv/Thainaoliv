@@ -1,6 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4F8EF7,100:6DD5FA&height=160&section=header&text=Thaina%20Oliveira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%26%20Automacao&descAlignY=58&descSize=18)
+### Oi, eu sou a Thaina 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4F8EF7&center=true&vCenter=true&width=550&lines=Transformando+processos+manuais+em+sistemas;Automa%C3%A7%C3%A3o+%7C+Python+%7C+APIs+REST;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
+Desenvolvedora Back-end apaixonada por transformar processos manuais em sistemas. Curso Análise e Desenvolvimento de Sistemas e trabalho com automação, APIs REST e integração de sistemas em Python.
 
 ### 💡 Sobre mim
 
@@ -15,8 +15,8 @@
 
 ### 📊 Atividade no GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thainaoliv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thainaoliv&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thainaoliv&show_icons=true&theme=default&hide_border=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thainaoliv&theme=default&hide_border=true)
 
 ### 📫 Contato e Redes
 
